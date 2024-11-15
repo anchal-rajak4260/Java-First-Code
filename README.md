@@ -8,3 +8,4 @@ Inheritance
 Polymorphism
 Abstraction
 Encapsulation
+![image](https://github.com/user-attachments/assets/6f972d2d-d3ab-4496-97b9-88d1cdb9409e)
